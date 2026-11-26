@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "full_name": "James Carter",
+    "street_address": "742 Oak Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip_code": "62704",
+    "phone": "(217) 555-8288",
+    "email": "james.carter@example.com"
+  },
+  {
+    "id": 2,
+    "full_name": "Maria Garcia",
+    "street_address": "18 Maple Avenue",
+    "city": "Austin",
+    "state": "TX",
+    "zip_code": "78701",
+    "phone": "(512) 555-2327",
+    "email": "maria.garcia@example.com"
+  },
+  {
+    "id": 3,
+    "full_name": "Robert Smith",
+    "street_address": "903 Pine Road",
+    "city": "Columbus",
+    "state": "OH",
+    "zip_code": "43215",
+    "phone": "(614) 555-5773",
+    "email": "robert.smith@example.com"
+  },
+  {
+    "id": 4,
+    "full_name": "Emily Johnson",
+    "street_address": "27 Cedar Lane",
+    "city": "Denver",
+    "state": "CO",
+    "zip_code": "80203",
+    "phone": "(303) 555-4685",
+    "email": "emily.johnson@example.com"
+  },
+  {
+    "id": 5,
+    "full_name": "Michael Brown",
+    "street_address": "156 Birch Drive",
+    "city": "Seattle",
+    "state": "WA",
+    "zip_code": "98101",
+    "phone": "(206) 555-5826",
+    "email": "michael.brown@example.com"
+  },
+  {
+    "id": 6,
+    "full_name": "Sarah Davis",
+    "street_address": "84 Elm Street",
+    "city": "Miami",
+    "state": "FL",
+    "zip_code": "33101",
+    "phone": "(305) 555-7686",
+    "email": "sarah.davis@example.com"
+  },
+  {
+    "id": 7,
+    "full_name": "David Wilson",
+    "street_address": "231 Willow Way",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97205",
+    "phone": "(503) 555-5036",
+    "email": "david.wilson@example.com"
+  },
+  {
+    "id": 8,
+    "full_name": "Jessica Martinez",
+    "street_address": "67 Aspen Court",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip_code": "85004",
+    "phone": "(602) 555-3103",
+    "email": "jessica.martinez@example.com"
+  },
+  {
+    "id": 9,
+    "full_name": "Daniel Anderson",
+    "street_address": "390 Cherry Street",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": "30303",
+    "phone": "(404) 555-7644",
+    "email": "daniel.anderson@example.com"
+  },
+  {
+    "id": 10,
+    "full_name": "Laura Thomas",
+    "street_address": "512 Spruce Avenue",
+    "city": "Boston",
+    "state": "MA",
+    "zip_code": "02108",
+    "phone": "(617) 555-7035",
+    "email": "laura.thomas@example.com"
+  },
+  {
+    "id": 11,
+    "full_name": "Kevin Lee",
+    "street_address": "19 Walnut Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "phone": "(312) 555-4347",
+    "email": "kevin.lee@example.com"
+  },
+  {
+    "id": 12,
+    "full_name": "Anna Kim",
+    "street_address": "728 Magnolia Drive",
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "phone": "(619) 555-2228",
+    "email": "anna.kim@example.com"
+  },
+  {
+    "id": 13,
+    "full_name": "Brian Walker",
+    "street_address": "44 Poplar Lane",
+    "city": "Nashville",
+    "state": "TN",
+    "zip_code": "37201",
+    "phone": "(615) 555-4873",
+    "email": "brian.walker@example.com"
+  },
+  {
+    "id": 14,
+    "full_name": "Rachel Hall",
+    "street_address": "861 Juniper Road",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip_code": "89101",
+    "phone": "(702) 555-2730",
+    "email": "rachel.hall@example.com"
+  },
+  {
+    "id": 15,
+    "full_name": "Steven Young",
+    "street_address": "33 Sycamore Street",
+    "city": "Detroit",
+    "state": "MI",
+    "zip_code": "48201",
+    "phone": "(313) 555-7523",
+    "email": "steven.young@example.com"
+  },
+  {
+    "id": 16,
+    "full_name": "Megan King",
+    "street_address": "207 Alder Avenue",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip_code": "55401",
+    "phone": "(612) 555-9614",
+    "email": "megan.king@example.com"
+  },
+  {
+    "id": 17,
+    "full_name": "Thomas Wright",
+    "street_address": "590 Hickory Lane",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip_code": "28202",
+    "phone": "(704) 555-5263",
+    "email": "thomas.wright@example.com"
+  },
+  {
+    "id": 18,
+    "full_name": "Olivia Scott",
+    "street_address": "76 Laurel Drive",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip_code": "84101",
+    "phone": "(801) 555-7823",
+    "email": "olivia.scott@example.com"
+  },
+  {
+    "id": 19,
+    "full_name": "Joseph Green",
+    "street_address": "418 Chestnut Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip_code": "19103",
+    "phone": "(215) 555-1460",
+    "email": "joseph.green@example.com"
+  },
+  {
+    "id": 20,
+    "full_name": "Hannah Baker",
+    "street_address": "95 Redwood Road",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip_code": "95814",
+    "phone": "(916) 555-8519",
+    "email": "hannah.baker@example.com"
+  },
+  {
+    "id": 21,
+    "full_name": "Andrew Adams",
+    "street_address": "263 Dogwood Court",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip_code": "64106",
+    "phone": "(816) 555-3969",
+    "email": "andrew.adams@example.com"
+  },
+  {
+    "id": 22,
+    "full_name": "Grace Nelson",
+    "street_address": "149 Cypress Avenue",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip_code": "70112",
+    "phone": "(504) 555-3219",
+    "email": "grace.nelson@example.com"
+  },
+  {
+    "id": 23,
+    "full_name": "Ryan Hill",
+    "street_address": "377 Fir Street",
+    "city": "Boise",
+    "state": "ID",
+    "zip_code": "83702",
+    "phone": "(208) 555-6600",
+    "email": "ryan.hill@example.com"
+  },
+  {
+    "id": 24,
+    "full_name": "Sophia Moore",
+    "street_address": "62 Beech Lane",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip_code": "27601",
+    "phone": "(919) 555-8608",
+    "email": "sophia.moore@example.com"
+  },
+  {
+    "id": 25,
+    "full_name": "Ethan Clark",
+    "street_address": "804 Ash Drive",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip_code": "85701",
+    "phone": "(520) 555-6540",
+    "email": "ethan.clark@example.com"
+  }
+]

@@ -1,0 +1,26 @@
+id,full_name,street_address,city,state,zip_code,phone,email
+1,James Carter,742 Oak Street,Springfield,IL,62704,(217) 555-8288,james.carter@example.com
+2,Maria Garcia,18 Maple Avenue,Austin,TX,78701,(512) 555-2327,maria.garcia@example.com
+3,Robert Smith,903 Pine Road,Columbus,OH,43215,(614) 555-5773,robert.smith@example.com
+4,Emily Johnson,27 Cedar Lane,Denver,CO,80203,(303) 555-4685,emily.johnson@example.com
+5,Michael Brown,156 Birch Drive,Seattle,WA,98101,(206) 555-5826,michael.brown@example.com
+6,Sarah Davis,84 Elm Street,Miami,FL,33101,(305) 555-7686,sarah.davis@example.com
+7,David Wilson,231 Willow Way,Portland,OR,97205,(503) 555-5036,david.wilson@example.com
+8,Jessica Martinez,67 Aspen Court,Phoenix,AZ,85004,(602) 555-3103,jessica.martinez@example.com
+9,Daniel Anderson,390 Cherry Street,Atlanta,GA,30303,(404) 555-7644,daniel.anderson@example.com
+10,Laura Thomas,512 Spruce Avenue,Boston,MA,02108,(617) 555-7035,laura.thomas@example.com
+11,Kevin Lee,19 Walnut Street,Chicago,IL,60601,(312) 555-4347,kevin.lee@example.com
+12,Anna Kim,728 Magnolia Drive,San Diego,CA,92101,(619) 555-2228,anna.kim@example.com
+13,Brian Walker,44 Poplar Lane,Nashville,TN,37201,(615) 555-4873,brian.walker@example.com
+14,Rachel Hall,861 Juniper Road,Las Vegas,NV,89101,(702) 555-2730,rachel.hall@example.com
+15,Steven Young,33 Sycamore Street,Detroit,MI,48201,(313) 555-7523,steven.young@example.com
+16,Megan King,207 Alder Avenue,Minneapolis,MN,55401,(612) 555-9614,megan.king@example.com
+17,Thomas Wright,590 Hickory Lane,Charlotte,NC,28202,(704) 555-5263,thomas.wright@example.com
+18,Olivia Scott,76 Laurel Drive,Salt Lake City,UT,84101,(801) 555-7823,olivia.scott@example.com
+19,Joseph Green,418 Chestnut Street,Philadelphia,PA,19103,(215) 555-1460,joseph.green@example.com
+20,Hannah Baker,95 Redwood Road,Sacramento,CA,95814,(916) 555-8519,hannah.baker@example.com
+21,Andrew Adams,263 Dogwood Court,Kansas City,MO,64106,(816) 555-3969,andrew.adams@example.com
+22,Grace Nelson,149 Cypress Avenue,New Orleans,LA,70112,(504) 555-3219,grace.nelson@example.com
+23,Ryan Hill,377 Fir Street,Boise,ID,83702,(208) 555-6600,ryan.hill@example.com
+24,Sophia Moore,62 Beech Lane,Raleigh,NC,27601,(919) 555-8608,sophia.moore@example.com
+25,Ethan Clark,804 Ash Drive,Tucson,AZ,85701,(520) 555-6540,ethan.clark@example.com
